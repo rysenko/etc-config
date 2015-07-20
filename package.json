@@ -1,0 +1,13 @@
+{
+  "name": "etc-config",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rysenko/etc-config"
+  },
+  "license": "MIT",
+  "main": "lib/config.js",
+  "dependencies": {
+    "node-etcd": "^4.0.2"
+  }
+}
